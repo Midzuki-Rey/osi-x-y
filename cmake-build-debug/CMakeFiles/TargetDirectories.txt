@@ -1,0 +1,3 @@
+D:/profiles/пользователь/CLionProjects/osi x y/cmake-build-debug/CMakeFiles/osi_x_y.dir
+D:/profiles/пользователь/CLionProjects/osi x y/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/profiles/пользователь/CLionProjects/osi x y/cmake-build-debug/CMakeFiles/rebuild_cache.dir
